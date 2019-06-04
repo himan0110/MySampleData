@@ -1,0 +1,75 @@
+Table Name,Column Name,Column Comment
+CUSTOMER,customer_number,"A unique number associated with Customer , from himanshu"
+CUSTOMER,customer_address,Street address of the customer
+CUSTOMER,customer_city,City associated with Customer’s address
+CUSTOMER,customer_first_name,First name of a Customer
+CUSTOMER,customer_last_name,Last name of a Customer
+CUSTOMER,customer_state,The two-character state abbreviation associated with customer’s address
+CUSTOMER,customer_zip_code,zip-code associated with Customer’s address
+CUSTOMER,email,The email address associated with a customer
+CUSTOMER_CREDIT,customer_number,A unique number associated with Customer
+CUSTOMER_CREDIT,credit_card,A credit card number associated with Customer
+CUSTOMER_CREDIT,credit_card_exp,Expiration date on the customer’s credit card
+CUSTOMER_CREDIT,status_code,Payment status associated with a Customer
+EMPLOYEE,employee_number,A unique number that identifies the store in which the employee works
+EMPLOYEE,supervisor,A unique number that identifies the employee
+EMPLOYEE,employee_first_name,Employee’s name
+EMPLOYEE,employee_address,First line of the employee’s address
+EMPLOYEE,employee_phone,Employee’s home phone number
+EMPLOYEE,employee_address_2,Second line street address of the employee
+EMPLOYEE,soc_sec_number,Social Security Number
+EMPLOYEE,hire_date,Employee’s date of hire at the video store
+EMPLOYEE,salary,Annual salary paid to the employee
+EMPLOYEE,email,email
+EMPLOYEE,store_number,A unique identifier of the video store
+MOVIE,movie_number,A unique number that identifies a movie
+MOVIE,movie_title,
+MOVIE,movie_director,Last name of the movie’s director
+MOVIE,description,A brief description of the movie’s plot or story line
+MOVIE,star_1_name,Last name of the leading star of the movie
+MOVIE,rating,Rating associated with the movie
+MOVIE,star_2_name,Last name of the second leading star of the movie
+MOVIE,genre,The genre associated with the movie
+MOVIE,rental_rate,Amount charged for the rental of a movie
+MOVIE,movie_url,The location on the internet where the movie clip is stored
+MOVIE,movie_clip,Stored Movie clip
+MOVIE_COPY,movie_copy_number,A unique number  identifying the movie copy
+MOVIE_COPY,movie_number,A unique number that identifies a movie
+MOVIE_COPY,general_condition,code identifying the general condition of the copy of the movie
+MOVIE_COPY,movie_format,"Defines the format of the movie copy (i.e VHS\, DVD)"
+MOVIE_RENTAL_RECORD,rental_record_date,The date on which the rental transaction  is recorded
+MOVIE_RENTAL_RECORD,movie_copy_number,A unique number  identifying the movie copy
+MOVIE_RENTAL_RECORD,movie_number,A unique number that identifies a movie
+MOVIE_RENTAL_RECORD,soc_sec_number,Social Security Number
+MOVIE_RENTAL_RECORD,employee_phone,Employee’s home phone number
+MOVIE_RENTAL_RECORD,customer_number,A unique number associated with Customer
+MOVIE_RENTAL_RECORD,rental_date,The date on which the movie was rented
+MOVIE_RENTAL_RECORD,due_date,The date on which the  movie is due back to the store
+MOVIE_RENTAL_RECORD,rental_status,Rental status of the movie copy
+MOVIE_RENTAL_RECORD,overdue_charge,The amount owed for an overdue movie rental
+MOVIE_RENTAL_RECORD,rental_rate,Amount charged for the rental of a movie
+MOVIE_RENTAL_RECORD,payment_transaction_number,A unique number associated with the payment
+MOVIE_STORE,movie_number,A unique number that identifies a movie
+MOVIE_STORE,store_number,A unique identifier of the video store
+PAYMENT,payment_transaction_number,A unique number associated with the payment
+PAYMENT,payment_type,"check\, credit card\, e-payment."
+PAYMENT,customer_number,A unique number associated with a customer
+PAYMENT,payment_amount,The amount paid to rent the movie
+PAYMENT,payment_date,The date on which the movie was rented
+PAYMENT,payment_status,The status of the payment
+PAYMENT,employee_number,A unique number that identifies the employee
+PAYMENT,check_bank_number,The bank number associated with the check issued for payment
+PAYMENT,check_number,
+PAYMENT,epay_vendor_number,Defines the vendor associated with the customer’s electronic payment
+PAYMENT,epay_account_number,Defines the customer account associated with the  electronic payment
+PAYMENT,credit_card_number,The number of the customer credit card
+PAYMENT,credit_card_exp,Expiration date on the customer’s credit card
+PAYMENT,credit_card_type,
+STORE,store_number,A unique identifier of the video store
+STORE,store_manager,The employee who manages the video store
+STORE,store_address,The first line of the street address of the store
+STORE,store_phone,The store’s phone number
+STORE,store_city,The city associated with the store’s address
+STORE,store_state,The state associated with the store’s address
+STORE,store_zip_code,The zip code associated with the store’s address
+STORE,store_address_2,The first line of the street address of the store

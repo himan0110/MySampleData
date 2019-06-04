@@ -1,0 +1,5 @@
+Table Name,Table Comment,Column Name,Column Comment
+item,This holds list of items,item_id,Unique item id
+item,This holds list of items,item_name,Name of item give by user
+item,This holds list of items,item_code,item code for internal purpsoe
+item,This holds list of items,item_description,what this item is used for

@@ -1,0 +1,22 @@
+"sms","RECEIVED","139","","","2013.09.16 15:20","","PNR 8616234706
+Train : 11041 - CSTM CHENNAI EX
+Dt : 5-10-2013
+BoardingStn : CSTM
+ReservedUpTo : MAS;
+CLASS : 3A
+P1 : Curr Stat : W/L 12;
+ChartStatus : NOT PREPARED
+Schd Dep.Time : 14 : 00 hrs.For help on SMS Based Ticket Booking, SMS TKT to 139"
+"sms","READ,RECEIVED","BP-HDFCMP","","","2013.09.13 16:41","","Your MMID allotted for the A/C No. XXXXXX2957  is 9240831. You can Send and Receive Money through IMPS option in Mobile Banking."
+"sms","READ,RECEIVED","MD-IRCTCi","","","2013.09.04 20:25","","PNR:8616234706,TRAIN:11041,DOJ:05-10-2013,TIME:14:00,3A,CSTM TO MAS,Himanshu Jani,WL  12,FARE:1235,SC:22.47+PG CHGS."
+"sms","READ,RECEIVED","MD-IRCTCi","","","2013.09.04 20:24","","PNR:4708593733,TRAIN:11042,DOJ:27-10-2013,TIME:11:55,3A,MAS TO CSTM,Himanshu Jani,B1 8,FARE:1235,SC:22.47+PG CHGS."
+"sms","READ,RECEIVED","LM-IRCTCi","","","2013.08.23 14:23","","PNR:4154501799,TRAIN:11042,DOJ:14-09-2013,TIME:11:55,2A,MAS TO TNA,Himanshu Jani,WL  16,FARE:1765,SC:22.47+PG CHGS."
+"sms","READ,RECEIVED","LM-HDFCBK","","","2013.05.06 20:04","","Dear INFINITE ENERGY SOLUTIONS, welcome to the world of hassle-free banking.Your Account has been opened. For details, call 022-61606161 Thank you for choosing HDFC Bank."
+"sms","READ,RECEIVED","AM-ARWIMP","","","2013.04.12 17:03","","To lodge complaints of demand of bribery/corruption by Central Govt. servants/Public sector undertakings/Banks etc.contact CBI,ACB Mumbai at 8108224455,22882794"
+"sms","SENT,READ","","450","","2012.07.02 17:57","","Bundle"
+"sms","SENT,READ","","+447826877521","","2012.07.02 16:07","","Oh no problem. Guessed u must be busy. Nothing new here."
+"sms","SENT,READ","","+447855722119","","2012.07.01 18:25","","Mera atm card nikaal ke rakhna."
+"sms","READ,RECEIVED","62226","","","2011.06.25 18:44","","PayPal: Text BAL: get balance. SEND: send money. GET: request money. VOID: cancel last pymt. STOP: stop alerts. Go to https://www.paypal.co.uk or call 08707 307 191 for more info. Msg and data rates may apply."
+"sms","READ,RECEIVED","62226","","","2011.06.25 18:44","","PayPal: Your current PayPal account balance is £0.00 GBP. Reply ""all"" for all text keywords."
+"sms","READ,RECEIVED","62226","","","2011.06.22 20:39","","PayPal: Your phone number is linked to your account. Now, save 62226 to your contact list. To check balance, reply with BAL. Msg and data rates may apply."
+"sms","READ,RECEIVED","62226","","","2011.06.22 20:38","","PayPal: Reply with your code or enter it on the PayPal website. CODE: 087489. Code expires in 15 minutes. Msg and data rates may apply."
